@@ -1,0 +1,66 @@
+# Encriptador de Texto
+
+¡Hola! 👋 Bienvenido a mi encriptador de texto. Este es un pequeño proyecto en el que puedes encriptar y desencriptar textos de una manera sencilla. Además, ¡puedes copiar el resultado con un solo clic!
+
+## ¿Qué hace esta aplicación?
+
+- **Encriptar Texto:** Convierte el texto que escribas en una versión "secreta".
+- **Desencriptar Texto:** Vuelve a transformar el texto "secreto" en su forma original.
+- **Copiar al Portapapeles:** ¿Te gustó el resultado? ¡Cópialo con un botón!
+
+## ¿Qué usé para hacerlo?
+
+- **HTML:** La estructura básica de la página.
+- **CSS:** Los estilos que hacen que la página se vea bonita (¡y responsive!).
+- **JavaScript:** La magia que encripta, desencripta y copia el texto.
+
+## Estructura del Proyecto
+
+Aquí te dejo una pequeña guía de cómo está organizado el proyecto:
+
+```bash
+/encriptador-de-texto
+│
+├── /css
+│   └── styles.css              # Estilos del proyecto
+│
+├── /js
+│   └── script.js               # Código que hace la magia
+│
+├── /fonts
+│   ├── Roboto-Regular.woff2    # Fuente Roboto Regular
+│   ├── Roboto-Bold.woff2       # Fuente Roboto Bold
+│   └── Roboto-Italic.woff2     # Fuente Roboto Italic
+│
+├── index.html                  # Página principal
+│
+└── README.md                   # Este archivo
+
+
+¿Cómo lo uso?
+Descarga el Proyecto:
+
+bash
+Copiar código
+git clone https://github.com/tu_usuario/encriptador-de-texto.git
+cd encriptador-de-texto
+Abre la Página:
+
+Simplemente abre el archivo index.html en tu navegador favorito.
+Si estás usando VS Code, puedes lanzar un servidor local con Live Server para una experiencia más fluida.
+¡Juega con el Texto!
+
+Escribe algo en la caja de texto.
+Haz clic en "Encriptar!" para ver tu texto en código.
+Haz clic en "Desencriptar!" para volver al texto original.
+¿Te gustó el resultado? Haz clic en "Copiar" y úsalo donde quieras.
+
+
+
+Licencia
+Este proyecto es libre de usar y modificar bajo la Licencia MIT. ¡Diviértete con él!
+
+
+
+
+Creado por: Valeska Arrue
